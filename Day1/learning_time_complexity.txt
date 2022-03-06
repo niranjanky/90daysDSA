@@ -1,0 +1,17 @@
+=======================Starting with the Big O notation=======================
+#watching 10 minutes tutorial to start with the basic.
+Basic Ex.
+Ex. 1:
+for(i = 0; i<n; i++){
+//Do somthing
+}
+
+this executes under O(n).
+
+Ex. 2:
+
+for(i=0; i<n; i++){
+
+  
+}
+#will upload hand note
